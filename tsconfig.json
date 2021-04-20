@@ -3,6 +3,7 @@
     "incremental": true,
     "target": "es5",
     "module": "esnext",
+    "moduleResolution": "node",
     "lib": ["ES2015", "DOM"],
     "strict": true,
     "allowJs": true,
